@@ -9,3 +9,6 @@ Use tech stack - Express, MongoDB
 4. Create API to delete the image from DB
 5. Create JWT authenticated signup API using contact number
 6. Create JWT authenticated login API using contact number
+
+Submission:
+Postman collection - APIs
